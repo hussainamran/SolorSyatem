@@ -6,5 +6,9 @@ public class Main {
         milkway.sun=1;
         milkway.moon=2;
         milkway.planets=3;
+
+        Planet1 pi=new Planet1();
+        pi.color="red";
+        pi.size="khrh242494";
     }
 }
